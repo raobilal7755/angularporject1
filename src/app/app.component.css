@@ -1,0 +1,12 @@
+.parallax-window {
+	min-height: 600px;
+	
+}
+.carousel-inner{
+    height: 700px !important;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}

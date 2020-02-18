@@ -1,0 +1,32 @@
+section{
+	height: 600px;
+	width: 100%;
+	background-color: #5680EB;
+}
+
+#one{
+	padding: 80px 0px 60px;
+	box-sizing: border-box;
+}
+.imgsetting{
+	background: white;
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	
+}
+.fa-shopping-cart{
+	margin-top: 20px;
+	margin-left: 25px;
+}
+.fa-lock{
+	margin-top: 20px;
+	margin-left: 35px;
+}
+.fa-desktop{
+	margin-top: 30px;
+	margin-left: 25px;
+}
+#rowsetting{
+	margin-top: 70px;
+}
